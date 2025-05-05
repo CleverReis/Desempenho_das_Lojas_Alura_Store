@@ -20,19 +20,10 @@ Produtos mais e menos vendidos
 Frete médio por loja
 Visualizações Criadas
 Faturamento por Loja
-Um gráfico de barras apresenta o faturamento total de cada loja, com destaque para o total geral.
-
 Categorias de Produtos por Loja
-Gráfico de barras agrupadas mostra a distribuição de categorias de produtos entre as quatro lojas.
-
 Média de Avaliação da Compra
-Um gráfico de dispersão indica a nota média atribuída pelos clientes em cada loja.
-
 Produtos Mais e Menos Vendidos por Loja
-Dois gráficos de pizza revelam os produtos com maior e menor número de vendas em cada loja.
-
 Frete Médio por Loja
-Um gráfico de barras horizontais exibe o valor médio de frete cobrado por loja.
 
 Tecnologias Utilizadas
 Python
@@ -46,7 +37,6 @@ Loja 4: Menor faturamento e desempenho inferior nos principais indicadores
 
 Conclusão
 A loja recomendada para venda é a Loja 4, por apresentar:
-
-Menor faturamento
-Pior desempenho em vendas por categoria
-Avaliação de clientes inferior
+ Menor faturamento
+ Pior desempenho em vendas por categoria
+ Avaliação de clientes inferior
